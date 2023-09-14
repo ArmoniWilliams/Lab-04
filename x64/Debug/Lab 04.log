@@ -1,0 +1,5 @@
+﻿  Lab 04.cpp
+C:\Users\armon\source\repos\Lab 04\Lab 04.cpp(97,6): warning C4101: 'B': unreferenced local variable
+C:\Users\armon\source\repos\Lab 04\Lab 04.cpp(96,6): warning C4101: 'A': unreferenced local variable
+C:\Users\armon\source\repos\Lab 04\Lab 04.cpp(104,7): warning C4101: 'A': unreferenced local variable
+  Lab 04.vcxproj -> C:\Users\armon\source\repos\Lab 04\x64\Debug\Lab 04.exe
